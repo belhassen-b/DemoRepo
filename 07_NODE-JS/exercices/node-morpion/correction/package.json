@@ -1,0 +1,12 @@
+{
+  "name": "correction",
+  "version": "1.0.0",
+  "description": "correction exercice morpion avec node",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "delory christophe",
+  "license": "ISC"
+}

@@ -1,0 +1,11 @@
+exemple :
+
+#!/bin/bash
+
+#echo "Hello World"
+
+#read -p "Enter your name: " name
+#echo "Hello $name"
+
+#read -p "Enter your name: " name
+#echo "Hello $name, welcome to my script"

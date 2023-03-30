@@ -1,0 +1,27 @@
+Liste d'exercice :
+
+Exercice 1
+
+Créez une application ReactJs qui permet d’afficher deux composants :
+    • Contact (nom, prénom, téléphone).
+    • Adresse (Rue, ville, code postal).
+
+Exercice 2 
+
+Créez une application ReactJs qui permet d’afficher une liste clients 
+chaque client possède un nom, prénom, 
+téléphone, statut (actif ou non),
+ adresse (rue, ville, code postal).
+Affichez un marqueur rouge pour les clients non actif.
+
+Exercice 3
+
+Ajoutez à l'exercice 2, la possibilité de changer le statut d'un client.
+
+TP 1 
+
+Créer une application ReactJs qui permet, dans une seule page, de :
+
+    • Afficher une liste de produits, chaque produit possède un (id, titre, prix, description).
+    • Chaque produit peut être ajouter dans un panier.
+    • Affiche la liste des produits dans le panier avec le total du panier.

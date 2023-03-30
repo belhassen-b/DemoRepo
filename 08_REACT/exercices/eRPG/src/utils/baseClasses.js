@@ -1,0 +1,15 @@
+export const baseClasses = [
+  { id: 1, name: "Fighter", diceValue: 10 },
+  { id: 2, name: "Paladin", diceValue: 10 },
+  { id: 3, name: "Barbarian", diceValue: 12 },
+  { id: 4, name: "Ranger", diceValue: 10 },
+  { id: 5, name: "Rogue", diceValue: 8 },
+  { id: 6, name: "Artificer", diceValue: 8 },
+  { id: 7, name: "Monk", diceValue: 8 },
+  { id: 7, name: "Wizard", diceValue: 6 },
+  { id: 8, name: "Sorcerer", diceValue: 6 },
+  { id: 9, name: "Warlock", diceValue: 8 },
+  { id: 10, name: "Bard", diceValue: 8 },
+  { id: 11, name: "Druid", diceValue: 8 },
+  { id: 12, name: "Cleric", diceValue: 8 },
+]

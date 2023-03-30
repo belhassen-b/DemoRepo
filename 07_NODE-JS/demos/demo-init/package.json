@@ -1,0 +1,12 @@
+{
+  "name": "demo-init",
+  "version": "1.0.0",
+  "description": "mon premier projet node js avec la commande npm init",
+  "main": "essai.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "titi",
+  "license": "ISC",
+  "keywords": []
+}

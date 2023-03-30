@@ -1,0 +1,6 @@
+export enum DogSpecie {
+  LABRADOR,
+  GOLDEN_RETRIEVER,
+  GERMAN_SHEPARD,
+  SHI_TZU
+}

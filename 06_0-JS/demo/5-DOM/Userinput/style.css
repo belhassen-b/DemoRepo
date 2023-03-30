@@ -1,0 +1,13 @@
+#my-heading {
+    background-color: red;
+}
+
+#my-window {
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+}
+
+.hidden {
+    display: none;
+}
