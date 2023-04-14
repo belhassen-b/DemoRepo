@@ -1,0 +1,6 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼Îºâ
+P
+java:S1610"5Convert the abstract class "House" into an interface.(÷þ›þýÿÿÿÿ
+]
+java:S2094"BRemove this empty class, write its code or make it an "interface".(÷þ›þýÿÿÿÿ

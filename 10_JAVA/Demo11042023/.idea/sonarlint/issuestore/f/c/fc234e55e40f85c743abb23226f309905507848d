@@ -1,0 +1,20 @@
+
+s
+java:S1104"XMake randomPerson a static final constant or non-public and provide accessors if needed.(˜š÷îıÿÿÿÿ
+p
+java:S1104	"UMake firstName a static final constant or non-public and provide accessors if needed.(ßæÆÑıÿÿÿÿ
+i
+java:S1104
+"TMake lastName a static final constant or non-public and provide accessors if needed.(¿ü
+v
+java:S1104"`Make favoriteMusiqueGenre a static final constant or non-public and provide accessors if needed.(©õÅ§
+s
+java:S1104"XMake favoriteFood a static final constant or non-public and provide accessors if needed.(±õ­¬üÿÿÿÿ
+s
+java:S1104"XMake streetAdress a static final constant or non-public and provide accessors if needed.(÷¸Äªÿÿÿÿÿ
+k
+java:S1104"PMake city a static final constant or non-public and provide accessors if needed.(ÎÉâåúÿÿÿÿ
+i
+java:S1104"SMake country a static final constant or non-public and provide accessors if needed.(Ø¬
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ä‹É–
